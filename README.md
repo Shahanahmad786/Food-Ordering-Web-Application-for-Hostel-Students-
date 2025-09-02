@@ -1,7 +1,7 @@
 🍴 Food Ordering Web Application for Hostel Students  
 
 📌 Project Overview  
-This is a full-stack food ordering system designed for hostel students at Sharda University.  
+This is a full-stack food ordering system designed for hostel students.
 The application allows students to browse food from nearby canteens, place online orders, and manage them easily.  
 An integrated admin panel enables efficient management of menu items, categories, and users.  
 
